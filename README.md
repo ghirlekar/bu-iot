@@ -16,7 +16,7 @@ Next, clone this git repository into spark_repo_path/user/applications as descri
 
 Then run `make clean all PLATFORM=photon APP=bu-iot program-dfu` with spark_repo_path/main as the working directory. 
 
-The [application.cpp](../blob/master/application.cpp) contains the application code to run on the Photon.
+The [application.cpp](../master/application.cpp) contains the application code to run on the Photon.
 
 Contact
 -------
